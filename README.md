@@ -1,16 +1,50 @@
-### Hi there 👋
 
-<!--
-**rem00te/rem00te** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.rem00te.com/" target="_blank" rel="noreferrer"><img src="https://rem00te.com/rem00te-logo-new.png" alt="rem00te"></a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Onur</a> 👋
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">
+new learning software developer 💻, Photographer 📸, and Designer 🎨!
+</h2> 
+
+learning to write a few lines of code. He's a regular person who takes pictures every once in a while. A college dropout software developer who is passionate about learning and pursuing education.
+
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/onur-altintop/"><img align="left" src="https://rem00te.com/linkedin-logo-new.png" alt="rem00te | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/rem00te"><img align="left" src="https://rem00te.com/instagram-logo.png" alt="rem00te | Instagram" width="21px"/></a>
+<a href="https://patika.dev/rem00te"><img align="left" src="https://rem00te.com/patika-logo.png" alt="rem00te | Patika.dev" width="21px"/></a>
+<br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+## 🌱 I'm currently learning
+
+- Trying to find new projects
+- I am taking React-Native trainings
+- Wordpress Woocommerce
+- I write personal blog posts
+- I am taking trainings on Patika.dev.
+
+## 💼 Technical Skills
+
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+![](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=Wordpress&color=7952B3)
+</br>
+
+
+## 📈 GitHub Stats 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rem00te)](https://github.com/rem00te)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rem00te&layout=compact)](https://github.com/rem00te)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=rem00te.rem00te)](https://www.rem00te.com/)
+view rawREADME.txt hosted with ❤ by GitHub
