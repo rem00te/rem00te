@@ -8,7 +8,7 @@ Hi there, I'm <a href="https://www.rem00te.com" target="_blank" rel="noreferrer"
 </h3>
 
 <h2 align="center">
-new learning software developer 💻, Photographer 📸, and Designer 🎨!
+New student 💻, Photographer 📸 and Designer 🎨!
 </h2> 
 
 learning to write a few lines of code. He's a regular person who takes pictures every once in a while. A college dropout software developer who is passionate about learning and pursuing education.
