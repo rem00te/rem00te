@@ -47,4 +47,4 @@ learning to write a few lines of code. He's a regular person who takes pictures 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rem00te&layout=compact)](https://github.com/rem00te)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=rem00te.rem00te)](https://www.rem00te.com/)
-view rawREADME.txt hosted with ❤ by GitHub
+
