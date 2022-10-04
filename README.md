@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://www.rem00te.com/" target="_blank" rel="noreferrer"><img src="https://rem00te.com/rem00te-logo-new.png" alt="rem00te"></a>
+  <a href="https://www.rem00te.com/" target="_blank" rel="noreferrer">REM00TE</a>
 </p>
 
 <h3 align="center">
