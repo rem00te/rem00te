@@ -16,7 +16,7 @@ learning to write a few lines of code. He's a regular person who takes pictures 
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/onur-altintop/"></a>
-<a href="https://instagram.com/rem00te"><img align="left" src="https://rem00te.com/instagram-logo.png" alt="rem00te | Instagram" width="21px"/></a>
+<a href="https://instagram.com/rem00te"></a>
 <a href="https://patika.dev/rem00te"><img align="left" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo-p-500.png" alt="rem00te | Patika.dev" width="21px"/></a>
 <br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
